@@ -25,6 +25,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section>
         <p className={utilStyle.headingMd}>我々は宇宙人だ</p>
+        <p className={utilStyle.headingMd}>許せサスケ、これで最後だ。</p>
       </section>
       <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
         <h2>エンジニアのブログ</h2>
